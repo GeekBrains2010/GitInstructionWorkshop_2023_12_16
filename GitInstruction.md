@@ -26,6 +26,9 @@
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
+oni nujni dlya togo chtobi vsegda mojno bilo vernutsya na predidushuyu versiyu sdelannoi raboti 
+eto kak chernovik 
+
 ### Базовая работа с ветками в git.
 
 ## Работа с удаленными репозиториями.
